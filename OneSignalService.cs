@@ -15,7 +15,7 @@ public class OneSignalService
         var appConfig = new Configuration
         {
             BasePath = "https://onesignal.com/api/v1",
-            AccessToken = "MjkxNDI1ZTEtOTlhMC00YTZiLTk4YWQtNGZhZTY2YzUxN2Zh"
+            AccessToken = "<HERE>"
         };
 
         api = new DefaultApi(appConfig);
